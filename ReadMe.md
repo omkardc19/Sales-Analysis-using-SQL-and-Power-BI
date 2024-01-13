@@ -1,4 +1,4 @@
-# Sales Analysis project
+# Sales Analysis and Management system
 This project deals with the sales management and analysis of a business using SQL and Power BI dashboards.
 
 ## The dataset : 
