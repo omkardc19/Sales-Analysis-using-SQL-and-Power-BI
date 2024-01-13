@@ -1,9 +1,12 @@
 # Sales Analysis project
 This project deals with the sales management and analysis of a business using SQL and Power BI dashboards.
 
-The dataset used: 
-
+## The dataset : 
 https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak
+
+## Tech Stack:
+- SQL for data cleaning and transformation.
+- Power BI for creating interactive and dynamic visualizations.
 
 ## Objective and approach:
 
