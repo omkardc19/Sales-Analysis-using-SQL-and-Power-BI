@@ -7,7 +7,7 @@ https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks
 (AdventureWorks sample database)
 
 ## Tech Stack:
-- SQL for data cleaning and transformation.
+- SQL and Microsoft Excel for data cleaning and transformation.
 - Power BI for creating interactive and dynamic visualizations.
 
 ## Objective and approach:
