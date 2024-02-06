@@ -6,7 +6,7 @@
 
 ---------- AdventureWorksDW original database contains data from 2010 to 2014, ths script will update the data to be (current year - 4 yars) to current year 
 
----------- For example: if the current year is 2021, the data after running the script will be from 2017 to 2021. 
+---------- For example: if the current year is 2024, the data after running the script will be from 2020 to 2024. 
 
 */ 
 
